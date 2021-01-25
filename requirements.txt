@@ -1,4 +1,6 @@
 pandas
 numpy
 openpyxl
-xlrd
+lxml
+html5lib
+BeautifulSoup4
