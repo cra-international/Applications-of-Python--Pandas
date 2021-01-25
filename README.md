@@ -1,4 +1,7 @@
 # Applications of Python: Pandas
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynettepancrai/Applications-of-Python--Pandas/HEAD)
+
  This repository contains all of the materials for Applications of Python: Pandas. File descriptions are below.
 
  1. Tutorial - Applications of Python: Pandas.ipynb
