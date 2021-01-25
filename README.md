@@ -1,4 +1,7 @@
 # Applications of Python: Pandas
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynettepancrai/Applications-of-Python--Pandas/HEAD)
+
  This repository contains all of the materials for Applications of Python: Pandas. File descriptions are below.
 
  1. Tutorial - Applications of Python: Pandas.ipynb
@@ -24,7 +27,7 @@
  
  This file is an example excel data file for demonstrating how to import data from Excel.
  
- 4. Exersice
+ 5. Exercise
  
  This folde contiains the exercise for you to practice your pandas skills! We will be using the [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) from Kaggle. Just follow along and complete the tasks outlined in bold in the exercide and check with solution notebook if you need some inspirations.
 
