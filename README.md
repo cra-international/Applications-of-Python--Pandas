@@ -7,7 +7,7 @@
  1. Tutorial - Applications of Python: Pandas.ipynb
  
  
- This file contains the walktrhough of useful built-in functionalities in Pandas package.
+ This file contains the walkthrough of useful built-in functionalities in Pandas package.
  
  
  2. Tutorial - Tutorial - Pandas Built-in Data Visualization.ipynb
