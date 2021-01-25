@@ -24,7 +24,7 @@
  
  This file is an example excel data file for demonstrating how to import data from Excel.
  
- 4. Exersice
+ 5. Exersice
  
  This folde contiains the exercise for you to practice your pandas skills! We will be using the [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) from Kaggle. Just follow along and complete the tasks outlined in bold in the exercide and check with solution notebook if you need some inspirations.
 
